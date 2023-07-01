@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iayushmittal
-- 👀 I’m computer science engineer interested and currently working with VMware as Senior Member of technical staff. I work on improvising linux sensor for protection of linux endpoint/VM workloads.
+- 👀 I’m computer science engineer and currently working with VMware as Senior Member of technical staff. I work on improvising linux sensor for protection of linux endpoint/VM workloads.
 - 🌱 I’m currently learning C++.
   
 <!---
